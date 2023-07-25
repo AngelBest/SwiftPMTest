@@ -1,13 +1,13 @@
 //
-//  SCNViewDemoUITestsLaunchTests.swift
-//  SCNViewDemoUITests
+//  SwiftPMTestUITestsLaunchTests.swift
+//  SwiftPMTestUITests
 //
-//  Created by 宋秀腾 on 2023-07-22.
+//  Created by 宋秀腾 on 2023-07-25.
 //
 
 import XCTest
 
-final class SCNViewDemoUITestsLaunchTests: XCTestCase {
+final class SwiftPMTestUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
